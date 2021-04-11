@@ -1,0 +1,33 @@
+{
+  "name": "irohbot",
+  "version": "1.0.0",
+  "description": "Discord music bot in Loving Memory Of Uncle Iroh's",
+  "main": "index.js",
+  "scripts": {
+    "test": "$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khudysh/Uncle-Iroh.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "uncle",
+    "iroh",
+    "music"
+  ],
+  "author": "khudysh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khudysh/Uncle-Iroh/issues"
+  },
+  "homepage": "https://github.com/khudysh/Uncle-Iroh#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.3.0",
+    "opusscript": "0.0.8",
+    "ytdl-core": "^4.5.0"
+  }
+}
